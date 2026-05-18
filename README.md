@@ -1,5 +1,5 @@
 # Digital Business Card
-A clean, responsive business card built with "HTML" and "CSS".
+A clean, responsive digital business card built with "HTML" and "CSS".
 
 
 
