@@ -22,18 +22,5 @@ https://ankamahjohnson.github.io/Digital-business-card/
 
 
 
-## What I Learned
-- Structuring pages semantically.
-- Working with images, links, and text elements.
-- Organizing content into sections and dividers.
-- Effective use of CSS (margin, padding, text alignment, layout, font size, anchor-link effects, rounded corners, borders,shadows, background color, link styling, etc.)
-- Making designs fully responsive with media queries and proper viewport settings.
-- Improving typography hierarchy and visual balance in a constrained space.
-- Centering and alignment techniques.
-- Organizing and styling social media links for better user experience.
-- Buttons and hover-ready styling.
-- How to prepare and host a static frontend project on GitHub with GitHub Pages for live demonstration.
-
-
-
+## 📝
 Made with ❤️ as a frontend practice project.
