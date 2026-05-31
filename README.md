@@ -9,7 +9,7 @@ https://ankamahjohnson.github.io/Digital-business-card/
 - Modern single-page business card design.
 - Fully responsive layout (works on mobile & desktop).
 - Beautiful visual hierarchy with prominent profile image and clear contact information.
-- Well-organized sections: Personal info, Contact details, and Social links.
+- Well-organized sections: Personal info, Contact details, and Social Media links.
 - Profile image with rounded corners.
 - Hover-friendly and interactive social links (Twitter, Instagram, GitHub).
 - Horizontal dividers for clean visual separation between sections.
