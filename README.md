@@ -1,5 +1,5 @@
 # Digital Business Card
-A clean, responsive digital business card built with "HTML" and "CSS".
+A clean, responsive digital business card built with "HTML" and "CSS". Designed to present personal and professional information in a compact, shareable card format — including contact details, a portfolio link & social media links.
 
 ## Live Demo
 View Live 🌐
