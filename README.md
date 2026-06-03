@@ -3,7 +3,7 @@ A clean, responsive digital business card built with "HTML" and "CSS". Designed 
 
 ## Live Demo
 View Live 🌐
-https://ankamahjohnson.github.io/Digital-business-card/  
+https://ankamahjohnson.github.io/digital-business-card/  
 
 ## Features
 - Clean business card layout on a bold green background
