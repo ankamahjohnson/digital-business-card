@@ -1,20 +1,15 @@
 # Digital Business Card
-A clean, responsive digital business card built with "HTML" and "CSS". Designed to present personal and professional information in a compact, shareable card format — including contact details, a portfolio link & social media links.
+A simple, responsive digital business card, a live, shareable alternative to a paper card. Built with HTML and CSS
 
 ## Live Demo
 View Live 🌐
 https://ankamahjohnson.github.io/digital-business-card/  
 
 ## Features
-- Clean business card layout on a bold green background
-- Rounded profile image container at the top of the card
-- Full name, job title and company name displayed prominently
-- Contact details section with email and telephone number
-- Clickable portfolio link for direct access to work
-- Horizontal dividers for clean visual separation between sections
-- "Connect with me" section with Twitter, Instagram and GitHub links
-- Fully responsive and centered card layout
-
+- Clean, centered card layout that works on any screen size
+- Profile photo, role, and contact details at a glance
+- Direct links for email, phone, and portfolio
+- Social links
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
